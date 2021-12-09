@@ -85,7 +85,7 @@ We will ask questions like, "Is everything okay until now..".
 We will create a workspace on Trello, each member will have tasks assigned by his name, each task will have  a deadline.
 &nbsp;
 ## What project management tool will be used?
-Trello.
+GitHub projects.
 &nbsp;
 ## Git
 ## What components of your project will live on GitHub?<br>

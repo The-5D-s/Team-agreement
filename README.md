@@ -89,7 +89,7 @@ Trello.
 &nbsp;
 ## Git
 ## What components of your project will live on GitHub?<br>
-We will have our project in the github
+the whole project will be on github
 &nbsp;
 ## How will you share the repository with your teammates?<br>
 We created a Github organization and all of us are owners so we can share and contribute the work.
@@ -103,6 +103,6 @@ The team leader will review the code and check if there are any problems or bugs
 ### Who merges PRs?
 The team leader will approve the pull requests once reviewing it.
 ### How often will you merge?
-on a daily basis
+on daily basis
 ### How will you communicate that it’s time to merge?
 We will set a specific time for merging each day.
